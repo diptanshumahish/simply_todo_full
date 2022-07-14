@@ -26,4 +26,6 @@ sdk.
 
 - [@diptanshumahish](https://www.github.com/diptanshumahish)
 
+## App screenshots
+![App screenhsot](/simply_todo_full/blob/master/screenshots/simply1.png?raw=true "Optional Title")
 
