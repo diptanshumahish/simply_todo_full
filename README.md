@@ -27,5 +27,5 @@ sdk.
 - [@diptanshumahish](https://www.github.com/diptanshumahish)
 
 ## App screenshots
-![App screenhsot](/screenshots/simply1.png)
+![App screenhsot](/screenshots/simply1.png) ![App screenhsot](/screenshots/simply1.png)
 
